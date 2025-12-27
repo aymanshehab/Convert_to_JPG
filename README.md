@@ -19,7 +19,7 @@ pip install Pillow
 ## How to Use
 1. Run the script:
 ```bash
-python3 Convert_to_JPG.py
+python3 ConverttoJPG1.1.py
 ```
 2. Select the Input Folder containing your source images.
 
